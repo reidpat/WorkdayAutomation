@@ -37,6 +37,14 @@
       <input type="checkbox" name="days[]" value="Fri" checked>
       Fri
     </label>
+    <label>
+      <input type="checkbox" name="days[]" value="Sat" checked>
+      Fri
+    </label>
+    <label>
+      <input type="checkbox" name="days[]" value="Sun" checked>
+      Fri
+    </label>
   </div>
   <div>
     <label>
