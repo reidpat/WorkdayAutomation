@@ -39,11 +39,11 @@
     </label>
     <label>
       <input type="checkbox" name="days[]" value="Sat" checked>
-      Fri
+      Sat
     </label>
     <label>
       <input type="checkbox" name="days[]" value="Sun" checked>
-      Fri
+      Sun
     </label>
   </div>
   <div>
