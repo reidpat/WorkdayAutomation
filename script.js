@@ -260,7 +260,7 @@
                 .catch((error) => {
                     console.error(error.message);
                 });
-            await sleep(10000);
+            await sleep(4000);
         }
     });
 
